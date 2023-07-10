@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Welcome to my profile.
 I'm **Rodrigo Medeiros**, a brazilian *Software Developer* Front-end and back-end(Full Stack.) <br>
-Still learning... hungry for knowledge.<br>
+Still learning,however hungry for knowledge.<br>
 Languagues = ["English","Portguese","spanish"]<br>
 New technologies are coming...
 
