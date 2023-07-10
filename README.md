@@ -1,7 +1,9 @@
 ### Hi there 👋
 ### Welcome to my profile.
-My name is **Rodrigo Medeiros**, i'm *Software Developer* Front-end and back-end(Full Stack.) <br>
-I use code on a daily basis to help solve my problems more easily.
+I'm **Rodrigo Medeiros**, a brazilian *Software Developer* Front-end and back-end(Full Stack.) <br>
+Still learning... hungry for knowledge.
+Languagues = ["English","Portguese","spanish"]
+New technologies are coming...
 
   <h3> technologies: </h2>
 <div style="display: inline_block"><br>
