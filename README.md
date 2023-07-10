@@ -4,7 +4,7 @@ Still learning, but hungry for knowledge.<br>
 Languagues = ["English","Portguese","spanish"]<br>
 New technologies are coming...
 
-  <h3> technologies: </h2>
+  <h3>Current Technologies: </h2>
 <div style="display: inline_block"><br>
 <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
