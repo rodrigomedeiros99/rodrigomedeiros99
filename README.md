@@ -7,6 +7,7 @@ New technologies are coming...
   <h3>Current Technologies: </h2>
 <div style="display: inline_block"><br>
 <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
