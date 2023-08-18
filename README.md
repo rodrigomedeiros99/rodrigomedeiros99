@@ -1,5 +1,5 @@
 ### Hi there </> 👋
-I'm **Rodrigo Medeiros**, a brazilian *Software Developer* Full Stack(Front-end and back-end) <br>
+I'm **Rodrigo Medeiros**, a brazilian *Software Developer* Full Stack (Front-end and back-end) <br>
 Always learning and so hungry for knowledge.<br>
 Languages that i speak= ["English","Portguese","spanish"]<br>
 New technologies are coming...
