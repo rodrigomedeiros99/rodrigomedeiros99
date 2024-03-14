@@ -1,7 +1,7 @@
 ### Hi there </> 👋
 I'm **Rodrigo Medeiros**, a brazilian *Software Developer* Full-Stack (Front-end and back-end) <br>
 Always learning and so hungry for knowledge.<br>
-Languages that i speak= ["English","Portguese","spanish"]<br>
+Languages that i speak= ["English","Portguese","Spanish"]<br>
 
 
   <h3>Current Technologies: </h2>
