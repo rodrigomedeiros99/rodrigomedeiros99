@@ -13,6 +13,7 @@ Languages that i speak= ["English","Portguese","Spanish"]<br>
 <img align="center" alt="BootStrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 <img align="center" alt="Bulma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
+<img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="center" alt="NextJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
 <img align="center" alt="NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
